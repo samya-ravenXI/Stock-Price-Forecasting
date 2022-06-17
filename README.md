@@ -1,9 +1,9 @@
 # Stock Price Forcasting Using LSTM
 ---
-### Problem Statement
+## Problem Statement
 > In project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties. You need to develop a model that will learn how to predict stock price using the LSTM neural network.
 
-### Dataset
+## Dataset
 > The dataset for this project is available on Kaggle. 
 
 **Link:** https://www.kaggle.com/datasets/ishaandhull/tata-set
